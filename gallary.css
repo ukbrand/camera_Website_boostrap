@@ -1,0 +1,26 @@
+body{
+
+  padding: 0px;
+  margin: 0px;
+}
+
+.grid-block {
+  width: 50%;
+  min-height: 11.25rem;
+  padding: 1rem;
+}
+
+.tile-link {
+  display: block;
+}
+
+.tile-img {
+ 
+  width: 100%;
+  
+}
+.tile img {
+
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
